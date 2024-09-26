@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/05-08-task-no2/static/js/main.23a68460.js",
-    "index.html": "/05-08-task-no2/index.html",
-    "main.23a68460.js.map": "/05-08-task-no2/static/js/main.23a68460.js.map"
+    "main.js": "/rtk-query-1/static/js/main.d4914f80.js",
+    "index.html": "/rtk-query-1/index.html",
+    "main.d4914f80.js.map": "/rtk-query-1/static/js/main.d4914f80.js.map"
   },
   "entrypoints": [
-    "static/js/main.23a68460.js"
+    "static/js/main.d4914f80.js"
   ]
 }
