@@ -1,8 +1,8 @@
 {
-  "name": "react-homework-template",
+  "name": "react-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://artanton.github.io/05-08-task-no2/",
+  "homepage": "https://artanton.github.io/rtk-query-1/",
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
